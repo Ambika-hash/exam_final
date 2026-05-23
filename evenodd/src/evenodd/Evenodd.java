@@ -7,9 +7,9 @@ public class Evenodd {
 		Scanner s = new Scanner(System.in);
 		int input = s.nextInt();
 		if (input % 2 == 0) {
-			System.out.print(" is even number");
+			System.out.print("is even number");
 		}else {
-			System.out.print(" is Odd number");
+			System.out.print("is Oufjgdd number");
 		}
 		s.close();
 	}
